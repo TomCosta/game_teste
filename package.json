@@ -15,11 +15,13 @@
     "start": "npm run build && npm run serve"
   },
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "turbo-cli": "^0.30.12"
+  },
   "devDependencies": {
     "awesome-typescript-loader": "^3.4.1",
     "css-loader": "^0.28.9",
-    "extract-text-webpack-plugin": "^3.0.2",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
     "filemanager-webpack-plugin": "^1.0.26",
     "html-webpack-plugin": "^3.2.0",
     "http-server": "^0.10.0",
@@ -37,5 +39,8 @@
     "webpack-dev-server": "^3.1.14",
     "webpack-merge": "^4.1.1",
     "webpack-subresource-integrity": "^1.0.3"
-  }
+  },
+  "deploy": [
+    "./dist/"
+  ]
 }

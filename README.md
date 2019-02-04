@@ -1,7 +1,7 @@
 # Test Game HTML5/JavaScript
 ## Developer - Tech Test 
 
-Soon link to the LIVE Demo (wait)
+Link to the LIVE Demo :point_right: https://game-pixi-test-mk9mvt.turbo360-dev.com :point_left:
 
 ## Technologies
 
