@@ -10,11 +10,21 @@ Pixi.JS - First Time!
 
 Visual Studio Code, PIXI.JS
 
-##Install
+## Install
 
-npm install 
-npm run build 
+```
+npm install
+```
+
+## To run the Game
+
+```
+npm run build
+```
+ ```
 npm run serve
+```
+**Artwork used here is from the web**
 
 ## Resources
 
@@ -27,18 +37,5 @@ https://chrome.google.com/webstore/detail/pixijs-devtools/aamddddknhcagpehecnhph
 https://pixijs.io/pixi-text-style/
 
 Free sounds: https://www.zapsplat.com/sound-effect-category/casino-and-games-arcade/page/2/
+
 Convert audio to OGG: https://audio.online-convert.com/ru/convert-to-ogg
-
-**Artwork from the web.**
-
-## To run the project
-
-```
-npm install
-```
-```
-npm run build
-```
- ```
-npm run serve
-```
